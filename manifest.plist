@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/hytangwei/smjipa/raw/master/icon-large.png</string>
+					<string>http://52.63.58.75:8082/ios/icon_small.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/hytangwei/smjipa/raw/master/icon-large.png</string>
+					<string>http://52.63.58.75:8082/ios/icon_large.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
